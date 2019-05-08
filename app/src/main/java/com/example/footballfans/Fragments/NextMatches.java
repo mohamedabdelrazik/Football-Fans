@@ -40,7 +40,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 /**
- * created by Mohamed .
+ * created by Mohamed 2-4-19.
  */
 public class NextMatches extends Fragment {
 
@@ -49,7 +49,7 @@ public class NextMatches extends Fragment {
     private RecyclerView mRecyclerView;
     private LinearLayoutManager manager;
     AVLoadingIndicatorView loadingIndicator;
-    String leagueId , badge;
+    String leagueId ;
     private AdapterNextMatches mAdapter;
     SharedPreferences preferences;
 
