@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "930674301054",
+    "firebase_url": "https://football-fans-87a49.firebaseio.com",
+    "project_id": "football-fans-87a49",
+    "storage_bucket": "football-fans-87a49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930674301054:android:00f7eda5724392fa",
+        "android_client_info": {
+          "package_name": "com.example.footballfans"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgODuDLRsaGQiqVtWVUcAj0Yhf6yzmjlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930674301054-nqh9m2vv27d5kp7h06ohcpi44osp8p5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

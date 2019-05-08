@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="green">#96E49A</color>
+    <color name="gray">#A8A7A7</color>
+    <color name="darkGreen">#129119</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#070707</color>
+    <color name="blue">#0F2497</color>
+    <color name="yellow">#C1E498</color>
+    <color name="red">#FF0023</color>
+    <color name="dialogBG">#77000000</color>
+    <color name="backCard">#F1F1ED</color>
+    <color name="orange">#FF3909</color>
+</resources>

@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Football fans</string>
+    <string name="all_leagues">All Leagues</string>
+    <string name="formed_year">Formed Year :</string>
+    <string name="Stadium">Team stadium :</string>
+    <string name="stadium_location">Stadium location :</string>
+    <string name="stadium_capacity">Stadium capacity :</string>
+    <string name="web">Team website :</string>
+    <string name="face">Team facebook :</string>
+    <string name="youtube">Team youtube :</string>
+    <string name="team_players">Team Players</string>
+    <string name="team_matches">Team Next Matches</string>
+    <string name="table_league">League Table</string>
+    <string name="homePage">Go to Main</string>
+    <string name="logout">Logout</string>
+    <string name="player_born_date">Born date :</string>
+    <string name="player_nationality">Nationality :</string>
+    <string name="player_signed_date">Signed date :</string>
+    <string name="player_position">Position :</string>
+    <string name="player_height">Height :</string>
+    <string name="player_weight">Weight :</string>
+    <string name="home_team">Home</string>
+    <string name="away_team">Away</string>
+    <string name="date">Date :</string>
+    <string name="time">Time :</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit">Do you want to out ?</string>
+    <string name="team_name">Team</string>
+    <string name="play">T</string>
+    <string name="win">W</string>
+    <string name="loss">L</string>
+    <string name="draw">D</string>
+    <string name="receive">Rec</string>
+    <string name="score">Sco</string>
+    <string name="difference">Dif</string>
+    <string name="points">Pt</string>
+    <string name="searchTeam">Search team by name</string>
+    <string name="searchPlayer">Search player by name</string>
+    <string name="enter_name_player">Enter player name</string>
+    <string name="enter_name_team">Enter team name</string>
+    <string name="enter_name_plz">Enter name please</string>
+    <string name="matches_today">Matches </string>
+    <string name="about">About app</string>
+    <string name="search">Search</string>
+    <string name="correct_player">Write correct name</string>
+    <string name="no_matches">No matches today</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="yesterday">Yesterday</string>
+
+
+</resources>
